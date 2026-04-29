@@ -1,3 +1,0 @@
-select count(*), customer_ID, city, from employee
-where age > 55
-group by city;
